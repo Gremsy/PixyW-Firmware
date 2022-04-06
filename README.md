@@ -1,6 +1,6 @@
 # PixyWS-Firmware
 
-Pixy WIRIS SECURITY 
+Pixy WIRIS Series
 
 # What's new?
 
